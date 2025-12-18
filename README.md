@@ -1,5 +1,6 @@
 ![image alt](https://github.com/nehat40/Real-Estate-Dashboard-in-PowerBI/blob/a5b597837b5c27dee1cda7594850785baa1bf71b/Screenshot%202025-12-18%20201456.png)
 Here what’s covered?
+
 📌 Key metrics: Provides a quick snapshot of overall market activity and helping users track performance.
 
 📌 Line and Clustered Column Chart: Provides a detailed view of how property activity changes over time based on how long properties have been on the market and it helps to identify whether longer days on market impact price trends.
