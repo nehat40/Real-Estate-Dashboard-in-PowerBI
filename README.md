@@ -1,5 +1,4 @@
 
-<img align="right" alt="Coding" width="400" src=""C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-12-18 201456.png">
 Here what’s covered?
 📌 Key metrics: Provides a quick snapshot of overall market activity and helping users track performance.
 
